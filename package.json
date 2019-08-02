@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "array-to-table": "^1.0.1",
+    "inquirer": "^6.5.0",
     "mysql": "^2.17.1"
   }
 }
